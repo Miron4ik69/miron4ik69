@@ -15,4 +15,4 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Terminal" width="26px" src="https://e7.pngegg.com/pngimages/808/365/png-clipart-ubuntu-server-edition-long-term-support-installation-linux-linux-lamp-linux.png" />
+<img align="left" alt="Terminal" width="26px" src="https://www.pinclipart.com/picdir/middle/84-841345_ubuntu-circle-white-black-sticker-unixstickers-ubuntu-logo.png" />
